@@ -22,6 +22,12 @@ Fecha de Nacimiento: <input type="date" name="bday" tabindex="3">
 Email: <input type="email" name="correo" placeholder="Email" tabindex="4">
 <br><br>
 
+Password: <input type="password" name="contraseña" placeholder="pasword" tabindex="5" >
+<br><br>
+
+Ingrese otra vez el Password:<input type="password" name="contraseña2" placeholder="Password" tabindex="6" >
+<br><br>
+
 <input type="submit" name="Enviar" >
 
 </body>

@@ -19,6 +19,9 @@ Apellido:<input type:"text" name="apellido.txt" placeholder="Apellido" tabindex=
 Fecha de Nacimiento: <input type="date" name="bday" tabindex="3">
 <br><br>
 
+Email: <input type="email" name="correo" placeholder="Email" tabindex="4">
+<br><br>
+
 <input type="submit" name="Enviar" >
 
 </body>

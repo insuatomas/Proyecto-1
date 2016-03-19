@@ -36,7 +36,15 @@ Femenino<input name="Sexo" type="radio" id="Sex" value="Femenino" tabindex="8">
 Otro<input name="Sexo" type="radio" id="Sex" value="Otro" tabindex="9">
 <br><br> 
 
-
+Deporte Favorito: 
+<select>
+  <option value="Futbol" tabindex="10">Futbol</option>
+  <option value="Tenis" tabindex="11">Tenis</option>
+  <option value="Rugby" tabindex="12">Rugby</option>
+  <option value="Basket" tabindex="13">Basket</option>
+  <option value="Otro" tabindex="14">Otro</option>
+</select>
+<br> <br>
 
 <input type="submit" name="Enviar" >
 

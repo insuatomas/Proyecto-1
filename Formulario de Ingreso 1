@@ -46,7 +46,18 @@ Deporte Favorito:
 </select>
 <br> <br>
 
-<input type="submit" name="Enviar" >
+Ha sufrido alguna lesion en el pasado:
+
+<form action="">
+<input type="checkbox" name="Rodilla" value="Rodilla" tabindex="15">Lesion de Rodilla <br>
+<input type="checkbox" name="Tobillo" value="Tobillo" tabindex="16">Lesion de Tobillo
+<br>
+<input type="checkbox" name="Hombro" value="Hombro" tabindex="17">Lesion de Hombro <br>
+<input type="checkbox" name="Muñeca" value="Muñeca" tabindex="18">Lesion de Mu&ntildeeca 
+</form>
+ <br> <br>
+
+<input type="submit" name="Enviar" tabindex="19" >
 
 </body>
 </html>

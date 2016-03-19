@@ -28,6 +28,16 @@ Password: <input type="password" name="contraseña" placeholder="pasword" tabind
 Ingrese otra vez el Password:<input type="password" name="contraseña2" placeholder="Password" tabindex="6" >
 <br><br>
 
+Seleccione sexo:
+Mascuino<input name="Sexo" type="radio" id="Sex" value="Masculino" tabindex="7">
+
+Femenino<input name="Sexo" type="radio" id="Sex" value="Femenino" tabindex="8">
+
+Otro<input name="Sexo" type="radio" id="Sex" value="Otro" tabindex="9">
+<br><br> 
+
+
+
 <input type="submit" name="Enviar" >
 
 </body>

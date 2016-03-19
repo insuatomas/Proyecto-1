@@ -1,0 +1,25 @@
+<html>
+
+<head>
+<title>1er Formulario de Ingreso</title>
+</head>
+
+<body>
+<header>
+	<strong> <h1>Formulario de Ingreso </h1></strong>
+</header>
+<br> <br>
+
+Nombre: <input type="text" name="nombre.txt" placeholder="Nombre" tabindex="1" >
+<br> <br> 
+
+Apellido:<input type:"text" name="apellido.txt" placeholder="Apellido" tabindex="2" >
+<br> <br> 
+
+Fecha de Nacimiento: <input type="date" name="bday" tabindex="3">
+<br><br>
+
+<input type="submit" name="Enviar" >
+
+</body>
+</html>
